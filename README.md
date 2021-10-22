@@ -11,7 +11,7 @@ Process-oriented data analyst with 4+ years of professional experience in analyz
 Repository contains data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, or R markdown files.  
 
 ### Content. 
-- Walmart Sales Analysis and Forcasting Demand
+- [Walmart Retail Analysis and Sales Prediction](https://github.com/amiya-sur/Walmart-Sales-Analysis-with-LinearRegression) - *This Graded Porject is part of the Simplilearn Masters Program on Data Science and Business Analytics where I was presented with Walmart Retail stores historical data for exploratory data analysis popularly known as EDA and finally build a predictive model to forecast demands for a particular store in absence of historical data or such unexpected scenarios.*
 
 <!---
 amiya-sur/amiya-sur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
