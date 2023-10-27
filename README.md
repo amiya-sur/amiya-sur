@@ -16,6 +16,8 @@ My Repository contains data science/ data analysis projects completed by me for 
   * *Question 1 - How do annual members and casual riders use Cyclistic bikes differently?*
 
   *The above analysis has finally helped me find patterns and key insights from the 12 months historical data. This insights may help the company in taking data-driven decisions     for turning maximum Casual riders to Annual members and increase the revenue of the organisation.*
+  
+- [Water Potability Prediction using Machine Learning Approach](https://github.com/amiya-sur/Detecting-Water-Potaility-using-Data-Analytics.git) - *An in-depth exploration and analysis of a dataset detailing water quality parameters, aiming to classify water as potable or non-potable. Through comprehensive data preprocessing, visualization, and machine learning, this project successfully predicts water safety for consumption. The Random Forest model emerged as the top performer, offering insights that can significantly impact public health and safety decisions regarding water quality.*
 <!---
 amiya-sur/amiya-sur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
