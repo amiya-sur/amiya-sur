@@ -3,12 +3,14 @@ Google Certified Data Analyst | ETL Developer | Kaggle Contributor | Data Scienc
 
 ## **ABOUT ME**  
 
-Process-oriented data analyst with 4+ years of professional experience in analyzing data and gaining insights to drive growth in the Insurance domain. Strong engineering professional with a Bachelor of Technology focused in Computer Science and proficient knowledge in statistics.
+Dedicated data analyst with 5 years of professional experience leveraging data-driven insights to drive growth in the Insurance domain. Adept in computer science and mathematical concepts, holding a Bachelor of Technology in Computer Science. Currently pursuing an MSc with a major in Data Analytics, aiming to combine technical expertise with a passion for addressing global water scarcity challenges. Committed to learning and applying innovative data science techniques to water governance and management processes, in order to develop sustainable solutions for pressing environmental issues.
+
 
 " Data Science is the next big thing, so am I ... "  
 
 ## My Protfolio Projects
-My Repository contains data science/ data analysis projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, or R markdown files.  
+
+My repository showcases a curated collection of data science and analysis projects, reflecting my academic endeavors, self-initiated explorations, and passion-driven pursuits. Each project is meticulously presented in iPython Notebooks or R markdown files, exemplifying my commitment to rigorous research, innovative methodologies, and clear communication of data-driven insights.
 
 ### Content. 
 - [Walmart Retail Analysis and Sales Prediction](https://github.com/amiya-sur/Walmart-Sales-Analysis-with-LinearRegression) - *This Graded Porject is part of the Simplilearn Masters Program on Data Science and Business Analytics where I was presented with Walmart Retail stores historical data for exploratory data analysis popularly known as EDA and finally build a predictive model to forecast demands for a particular store in absence of historical data or such unexpected scenarios.*
